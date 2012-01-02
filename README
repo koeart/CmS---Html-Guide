@@ -1,0 +1,20 @@
+# Entity: c3d2, CmS Dresden, Germany Authors: koeart Version: 0.1
+
+HTML Cheat-Sheet to be used in schools. Originally prepared for "Mittelschule
+Weißig". Should server children from 5th grade on.  It's designed to help out,
+    even if http://de.selfhtml.org isn't around or to complicated to read.
+
+Should grow with 'addendums' -> make it flexible, easy to understand,
+       entertaining. If the kids have fun, soon they will know where to look
+       for more.
+
+First addendum could be about content vs style: How to style a page without modifying the content of it.
+       
+ToDo: Port it to LaTeX.
+
+Please: Use PDF's but don't push'em -> .gitignore
+
+Feel free to comment and improve!
+
+Version 0.1: Basic HTML Tags (bla bla -> 2do)
+
